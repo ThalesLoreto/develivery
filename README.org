@@ -1,6 +1,6 @@
 #+TITLE: Develivery (Application to study some technologies)
 
-** Finish Project [3/8]
+** Finish Project [4/8]
 *** [X] Create project structure [4/4]
 CLOSED: [2022-03-24 Thu 11:28]
 + [X] Prisma
@@ -14,7 +14,8 @@ CLOSED: [2022-03-24 Thu 11:37]
 *** [X] Create client table
 CLOSED: [2022-03-24 Thu 11:40]
 
-*** [ ] Create deliveries table
+*** [X] Create deliveries table
+CLOSED: [2022-03-24 Thu 11:48]
 
 *** [ ] Create client sign up
 
