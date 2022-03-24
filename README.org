@@ -1,24 +1,24 @@
 #+TITLE: Develivery (Application to study some technologies)
 
-* Finish Project [0/8]
-** [ ] Create project structure [0/4]
-*** [ ] Prisma
-*** [ ] TypeScript
-*** [ ] Bcrypt
-*** [ ] JsonWebToken
+** Finish Project [0/7]
+***  [ ] Create project structure [0/4]
++ [ ] Prisma
++ [ ] TypeScript
++ [ ] Bcrypt
++ [ ] JsonWebToken
 
-** [ ] Create deliveryman table
+*** [ ] Create deliveryman table
 
-** [ ] Create client table
+*** [ ] Create client table
 
-** [ ] Create deliveries table
+*** [ ] Create deliveries table
 
-** [ ] Create client sign up
+*** [ ] Create client sign up
 
-** [ ] Create authentication
+*** [ ] Create authentication
 
-** [ ] Create deliveryman sign up
+*** [ ] Create deliveryman sign up
 
-** [ ] Create deliveries register
+*** [ ] Create deliveries register
 
 ...
