@@ -1,6 +1,7 @@
 #+TITLE: Develivery (Application to study some technologies)
++ (this org file was created to see in Emacs)
 
-** Finish Project [9/9]
+** Finish Project [9/13]
 *** [X] Create project structure [4/4]
 CLOSED: [2022-03-24 Thu 11:28]
 + [X] Prisma
@@ -32,4 +33,10 @@ CLOSED: [2022-03-25 Fri 16:20]
 *** [X] Create deliveries register
 CLOSED: [2022-03-25 Fri 18:45]
 
-...
+*** [ ] Create delivery search without deliveryman
+
+*** [ ] Create delivery update
+
+*** [ ] Create client delivery search
+
+*** [ ] Create deliveryman delivery search
