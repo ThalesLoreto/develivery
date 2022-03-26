@@ -43,5 +43,6 @@ model Deliveries {
   deliveryMan   DeliveryMan? @relation(fields: [deliveryManId], references: [id])
   deliveryManId String?      @map("deliveryman_id")
 
+  @@unique([id, deliveryManId], name: "link_delivery_deliveryman")
   @@map("deliveries")
 }
